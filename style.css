@@ -8,6 +8,11 @@ header {
     height: 650px;
 }
 
+.img {
+    display: block;
+    margin: 0ppx 0px 10px 0px;
+}
+
 .title {
     border-bottom: 2px solid black;
     text-align: center;
@@ -18,7 +23,7 @@ header {
 }
 main {
     text-align: center;
-    padding-top: 50px;
+    padding-top: 150px;
 }
 span.title{
     color: blue;
